@@ -6,7 +6,7 @@
 
 ## Algunos ejemplos de la sintaxis MARKDOWN
 
-   #Enfasis en el texto
+   # Énfasis en el texto
  
      *Texto en itálica*
      _Texto también en itálica_
