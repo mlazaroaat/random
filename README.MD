@@ -1,12 +1,12 @@
 
-## Ejemplo de programa en javascript
+# Ejemplo de programa en javascript
 
 
     Programa random.js: Utiliza la función random
 
-## Algunos ejemplos de la sintaxis MARKDOWN
+# Algunos ejemplos de la sintaxis MARKDOWN
 
-   # Énfasis en el texto
+   ## Énfasis en el texto
  
      *Texto en itálica*
      _Texto también en itálica_
@@ -16,18 +16,18 @@
    
      *Se pueden **combinar** los formatos de textos*
 
-   # Lista
+   ## Lista
 
       * Uno
       * Dos
         * Dos-Uno
         * Dos-Dos
  
-   # Enlaces
+   ## Enlaces
 
      https://github.com - automático!
 
-   # Nota u Observaciones
+   ## Nota u Observaciones
    
      Como comenta el equipo de Markdown:
    
@@ -35,7 +35,7 @@
      > observaciones e indicaciones en los 
      > repositorios.
 
-   # Lista de tareas
+   ## Lista de tareas
 
      - [x] Clonar el repositorio
      - [x] Realización de modificaciones del software y documentación.
@@ -43,7 +43,7 @@
      - [x] Realizar  **commit** o acometer las modificaciones.
      - [ ] Realizar **push** o poner los cambios en el repositorio remoto github
       
-  # emoji
+  ## emoji
 
     Ejemplo de emoticonos:
 
