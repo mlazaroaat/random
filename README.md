@@ -47,6 +47,6 @@ Como comenta el equipo de Markdown:
 
 Ejemplo de emoticonos:
 
-:+1: :car: :octcat: :camel: :hourse: :metal: :flower:
+:+1::octocat: :camel: :metal: 
 
-autor: @mlazaroaat
+@mlazaroaat
