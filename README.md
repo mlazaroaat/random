@@ -48,6 +48,6 @@ Como comenta el equipo de Markdown:
 
 # Ejemplo de emoji:
 
-:+1: :octocat: :camel: :hourse: :metal: :flower:
+:+1: :octocat: :camel: :metal: 
 
 @mlazaroaat
